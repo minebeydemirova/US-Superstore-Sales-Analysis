@@ -1,7 +1,7 @@
 # US Superstore Sales Analysis (Power BI)
 
 ### 📊 Dashboard Overview
-![Dashboard Overview](US Superstore Sales Analysis.png) 
+![Dashboard Overview](US%20Superstore%20Sales%20Analysis.png)
 
 
 ### 🎯 Project Overview
